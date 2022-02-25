@@ -1,5 +1,5 @@
-owner: Waveful # Your GitHub organization or username, where this repository lives
-repo: status.Waveful.github.io # The name of this repository
+owner: Waveful
+repo: status.Waveful.github.io
 
 sites:
   - name: "Website (waveful.app)"
@@ -9,7 +9,9 @@ sites:
 
 status-website:
   cname: status.waveful.app
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: ocean
+  favicon: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/favicon.ico
+  logoUrl: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/icon_512.png
   name: Waveful
   introTitle: "**Waveful** Status Dashboard"
   introMessage: "This page provides status information on the services that are part of **Waveful**. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please [contact Support](mailto:support@waveful.app)."
