@@ -25,5 +25,8 @@ commitMessages:
   commitAuthorName: "Dolful"
   commitAuthorEmail: "github-bot@waveful.app"
 
+i18n:
+  footer: This page is [open source](https://github.com/Waveful/status.Waveful.github.io)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
