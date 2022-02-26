@@ -46,13 +46,13 @@ status-website:
   #    href: https://waveful.app/privacy
   
 workflowSchedule:
-  uptime: "*/5 * * * *"
-  responseTime: "30 */2 * * *"
-  graphs: "45 0 * * *"
-  summary: "45 0 * * *"
-  updateTemplate: "45 0 * * *"
-  staticSite: "45 1 * * *"
-  updates: "45 3 * * *"
+  uptime: "1-59/5 * * * *"
+  responseTime: "27 */2 * * *"
+  graphs: "57 0 * * *"
+  summary: "57 0 * * *"
+  updateTemplate: "57 0 * * *"
+  staticSite: "57 1 * * *"
+  updates: "57 3 * * *"
 
 commitMessages:
   commitAuthorName: "Dolful"
