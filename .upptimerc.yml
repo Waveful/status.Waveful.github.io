@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/icon_512.png
   name: Waveful
   introTitle: "**Waveful** Status Dashboard"
-  introMessage: "This page provides status information on the services that are part of **Waveful**. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please [contact Support](mailto:support@waveful.app)."
+  introMessage: " "
   #navbar:
   #  - title: Home
   #    href: https://waveful.app
@@ -27,7 +27,7 @@ commitMessages:
   commitAuthorEmail: "github-bot@waveful.app"
 
 i18n:
-  footer: This page is [open source](https://github.com/Waveful/status.Waveful.github.io)
+  footer: "If you are experiencing an issue not listed here, please [contact support](mailto:support@waveful.app)."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
