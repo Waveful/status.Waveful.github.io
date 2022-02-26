@@ -18,13 +18,13 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "password": "$INTERNAL_STATUS_SHARED_SECRET", "service": "AUTH" }'
-  - name: "NoSQL Database"
+  - name: "NoSQL Database #1"
     url: $INTERNAL_STATUS_URL
     method: POST
     headers:
       - "Content-Type: application/json"
     body: '{ "password": "$INTERNAL_STATUS_SHARED_SECRET", "service": "NOSQL1" }'
-  - name: "In-Memory Database"
+  - name: "In-Memory Database #1"
     url: $INTERNAL_STATUS_URL
     method: POST
     headers:
