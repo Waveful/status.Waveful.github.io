@@ -6,7 +6,7 @@ sites:
     url: https://waveful.app
   - name: "Content Delivery Network (cdn.waveful.app)"
     url: $CDN_STATUS_URL
-  - name: "Public APIs"
+  - name: "Functions Service"
     url: $INTERNAL_STATUS_URL
     method: POST
     headers:
