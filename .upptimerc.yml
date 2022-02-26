@@ -9,14 +9,12 @@ sites:
 
 status-website:
   cname: status.waveful.app
-  favicon: https://status.waveful.app/assets/favicon.ico
-  logoUrl: https://status.waveful.app/assets/icon_512.png
+  favicon: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/favicon.ico
+  logoUrl: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/icon_512.png
   name: Waveful
   introTitle: "**Waveful** Status Dashboard"
   introMessage: " "
-  links:
-    - rel: stylesheet
-      href: https://status.waveful.app/assets/custom-theme.css
+  css: ":root { --body-background-color: #edf4f7; --body-text-color: #002626; --card-background-color: #ffffff; --nav-background-color: #ffffff; --nav-border-bottom-color: #d8e3e8; --nav-current-border-bottom-color: #1896cc; --card-border-color: #d8e3e8; --down-border-left-color: #eb3b5a; --down-background-color: #ffd0d2; --degraded-border-left-color: #f7b731; --up-border-left-color: #20bf6b; --tag-color: #ffffff; --tag-up-background-color: #20bf6b; --tag-down-background-color: #eb3b5a; --tag-degraded-background-color: #f7b731; --change-background-color: #f7b731; --error-button-border-color: #1a46ad; --error-button-background-color: #3867d6; --error-button-color: #ffffff; --submit-button-border-color: #1a46ad; --submit-button-background-color: #3867d6; --submit-button-color: #ffffff; --graph-opacity: 1; --graph-filter: none; }"
   #navbar:
   #  - title: Home
   #    href: https://waveful.app
