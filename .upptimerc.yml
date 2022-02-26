@@ -44,8 +44,6 @@ status-website:
       href: https://waveful.app
     - title: Status
       href: /
-    - title: Privacy
-      href: https://waveful.app/privacy
   
 workflowSchedule:
   uptime: "1-59/5 * * * *"
