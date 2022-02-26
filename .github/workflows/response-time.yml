@@ -10,7 +10,7 @@
 name: Response Time CI
 on:
   schedule:
-    - cron: "30 */2 * * *"
+    - cron: "27 */2 * * *"
   repository_dispatch:
     types: [response_time]
   workflow_dispatch:
