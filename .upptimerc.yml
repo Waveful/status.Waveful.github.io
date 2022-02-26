@@ -6,6 +6,30 @@ sites:
     url: https://waveful.app
   - name: "Content Delivery Network (cdn.waveful.app)"
     url: $CDN_STATUS_URL
+  - name: "Public APIs test"
+    url: $INTERNAL_STATUS_URL
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "password": "$INTERNAL_STATUS_SHARED_SECRET", "service": "API" }'
+  - name: "Authentication test"
+    url: $INTERNAL_STATUS_URL
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "password": "$INTERNAL_STATUS_SHARED_SECRET", "service": "AUTH" }'
+  - name: "NoSQL Database test"
+    url: $INTERNAL_STATUS_URL
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "password": "$INTERNAL_STATUS_SHARED_SECRET", "service": "NOSQL1" }'
+  - name: "In-Memory Database test"
+    url: $INTERNAL_STATUS_URL
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "password": "$INTERNAL_STATUS_SHARED_SECRET", "service": "IMDB1" }'
 
 status-website:
   cname: status.waveful.app
