@@ -10,7 +10,7 @@ sites:
 status-website:
   cname: status.waveful.app
   theme: ocean
-  themeUrl: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/custom-theme.css  # https://upptime.js.org/docs/configuration#theme
+  themeUrl: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/custom-theme.css
   favicon: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/favicon.ico
   logoUrl: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/icon_512.png
   name: Waveful
