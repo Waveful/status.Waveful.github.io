@@ -9,14 +9,14 @@ sites:
 
 status-website:
   cname: status.waveful.app
-  favicon: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/favicon.ico
-  logoUrl: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/icon_512.png
+  favicon: https://status.waveful.app/assets/favicon.ico
+  logoUrl: https://status.waveful.app/assets/icon_512.png
   name: Waveful
   introTitle: "**Waveful** Status Dashboard"
   introMessage: " "
   links:
     - rel: stylesheet
-      href: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/custom-theme.css
+      href: https://status.waveful.app/assets/custom-theme.css
   #navbar:
   #  - title: Home
   #    href: https://waveful.app
