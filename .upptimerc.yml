@@ -47,7 +47,7 @@ status-website:
   
 workflowSchedule:
   uptime: "1-59/5 * * * *"
-  responseTime: "27 */2 * * *"
+  responseTime: "27 */4 * * *"
   graphs: "57 0 * * *"
   summary: "57 0 * * *"
   updateTemplate: "57 0 * * *"
