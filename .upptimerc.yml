@@ -30,6 +30,12 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "password": "$INTERNAL_STATUS_SHARED_SECRET", "service": "IMDB1" }'
+  - name: "In-Memory Database #2"
+    url: $INTERNAL_STATUS_URL
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "password": "$INTERNAL_STATUS_SHARED_SECRET", "service": "IMDB2" }'
 
 status-website:
   cname: status.waveful.app
