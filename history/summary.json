@@ -40,19 +40,19 @@
     "url": "https://it.waveful.app",
     "icon": "https://favicons.githubusercontent.com/it.waveful.app",
     "slug": "website-translation-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1372,
-    "timeDay": 4642,
-    "timeWeek": 1483,
-    "timeMonth": 1372,
-    "timeYear": 1372,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1358,
+    "timeDay": 4135,
+    "timeWeek": 1463,
+    "timeMonth": 1358,
+    "timeYear": 1358,
     "dailyMinutesDown": {
-      "2022-05-10": 0
+      "2022-05-10": 21
     }
   },
   {
