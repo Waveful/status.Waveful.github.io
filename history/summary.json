@@ -4,18 +4,20 @@
     "url": "https://waveful.app",
     "icon": "https://favicons.githubusercontent.com/waveful.app",
     "slug": "website-waveful-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 382,
-    "timeWeek": 390,
-    "timeMonth": 409,
+    "timeDay": 336,
+    "timeWeek": 383,
+    "timeMonth": 407,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Website (en.waveful.app)",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 61,
-    "timeDay": 62,
+    "timeDay": 57,
     "timeWeek": 57,
     "timeMonth": 56,
     "timeYear": 61,
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 963,
-    "timeDay": 1114,
-    "timeWeek": 891,
-    "timeMonth": 846,
-    "timeYear": 963,
+    "time": 962,
+    "timeDay": 1036,
+    "timeWeek": 892,
+    "timeMonth": 848,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2022-05-10": 21
     }
@@ -60,18 +62,20 @@
     "url": "$CDN_STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "content-delivery-network-cdn-waveful-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 136,
+    "timeDay": 144,
     "timeWeek": 157,
     "timeMonth": 143,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Functions Service",
@@ -85,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 224,
-    "timeWeek": 170,
+    "timeDay": 243,
+    "timeWeek": 176,
     "timeMonth": 196,
     "timeYear": 226,
     "dailyMinutesDown": {}
@@ -102,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 494,
-    "timeWeek": 497,
-    "timeMonth": 480,
-    "timeYear": 492,
+    "time": 491,
+    "timeDay": 484,
+    "timeWeek": 489,
+    "timeMonth": 478,
+    "timeYear": 491,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4143,
-    "timeDay": 4293,
-    "timeWeek": 3241,
+    "time": 4142,
+    "timeDay": 4280,
+    "timeWeek": 3267,
     "timeMonth": 4128,
-    "timeYear": 4143,
+    "timeYear": 4142,
     "dailyMinutesDown": {}
   },
   {
@@ -139,8 +143,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 199,
-    "timeWeek": 187,
+    "timeDay": 215,
+    "timeWeek": 188,
     "timeMonth": 189,
     "timeYear": 224,
     "dailyMinutesDown": {}
@@ -157,9 +161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 301,
-    "timeWeek": 186,
-    "timeMonth": 190,
+    "timeDay": 267,
+    "timeWeek": 185,
+    "timeMonth": 191,
     "timeYear": 234,
     "dailyMinutesDown": {}
   }
