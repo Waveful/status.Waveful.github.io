@@ -5,22 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/waveful.app",
     "slug": "website-waveful-app",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 318,
-    "timeWeek": 342,
-    "timeMonth": 348,
+    "timeDay": 310,
+    "timeWeek": 338,
+    "timeMonth": 344,
     "timeYear": 315,
-    "dailyMinutesDown": {
-      "2022-08-29": 6,
-      "2022-07-01": 11,
-      "2022-06-30": 53,
-      "2022-06-16": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website (en.waveful.app)",
@@ -31,16 +26,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 57,
     "timeDay": 46,
     "timeWeek": 49,
     "timeMonth": 52,
     "timeYear": 57,
-    "dailyMinutesDown": {
-      "2022-08-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website Translation Service",
@@ -48,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/it.waveful.app",
     "slug": "website-translation-service",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 991,
-    "timeDay": 1265,
-    "timeWeek": 1317,
-    "timeMonth": 1143,
-    "timeYear": 991,
-    "dailyMinutesDown": {
-      "2022-05-10": 21
-    }
+    "uptimeYear": "100.00%",
+    "time": 992,
+    "timeDay": 1159,
+    "timeWeek": 1340,
+    "timeMonth": 1147,
+    "timeYear": 992,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Content Delivery Network (cdn.waveful.app)",
@@ -68,21 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "content-delivery-network-cdn-waveful-app",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 159,
+    "timeDay": 107,
     "timeWeek": 144,
     "timeMonth": 151,
     "timeYear": 137,
-    "dailyMinutesDown": {
-      "2022-07-01": 11,
-      "2022-06-30": 53,
-      "2022-06-16": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Functions Service",
@@ -95,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 199,
-    "timeWeek": 173,
-    "timeMonth": 182,
-    "timeYear": 207,
+    "time": 208,
+    "timeDay": 274,
+    "timeWeek": 175,
+    "timeMonth": 185,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -113,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 263,
-    "timeWeek": 358,
-    "timeMonth": 436,
-    "timeYear": 452,
+    "time": 451,
+    "timeDay": 242,
+    "timeWeek": 344,
+    "timeMonth": 431,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   },
   {
@@ -131,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3793,
-    "timeDay": 5236,
-    "timeWeek": 2494,
-    "timeMonth": 3144,
-    "timeYear": 3793,
+    "time": 3795,
+    "timeDay": 4210,
+    "timeWeek": 2658,
+    "timeMonth": 3069,
+    "timeYear": 3795,
     "dailyMinutesDown": {}
   },
   {
@@ -150,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 134,
-    "timeWeek": 159,
-    "timeMonth": 188,
+    "timeDay": 166,
+    "timeWeek": 166,
+    "timeMonth": 187,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -162,19 +149,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "in-memory-database-2",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 196,
-    "timeDay": 169,
-    "timeWeek": 147,
+    "uptimeYear": "100.00%",
+    "time": 195,
+    "timeDay": 122,
+    "timeWeek": 152,
     "timeMonth": 159,
-    "timeYear": 196,
-    "dailyMinutesDown": {
-      "2022-07-24": 6,
-      "2022-07-16": 14
-    }
+    "timeYear": 195,
+    "dailyMinutesDown": {}
   }
 ]
