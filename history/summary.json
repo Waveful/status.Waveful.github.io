@@ -40,19 +40,19 @@
     "url": "https://it.waveful.app",
     "icon": "https://icons.duckduckgo.com/ip3/it.waveful.app.ico",
     "slug": "website-translation-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 894,
-    "timeWeek": 897,
-    "timeMonth": 908,
-    "timeYear": 987,
+    "time": 986,
+    "timeDay": 867,
+    "timeWeek": 892,
+    "timeMonth": 907,
+    "timeYear": 986,
     "dailyMinutesDown": {
-      "2023-03-21": 0
+      "2023-03-21": 5
     }
   },
   {
