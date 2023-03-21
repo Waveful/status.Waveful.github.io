@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 291,
-    "timeWeek": 303,
-    "timeMonth": 340,
+    "timeDay": 352,
+    "timeWeek": 315,
+    "timeMonth": 345,
     "timeYear": 344,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 45,
-    "timeWeek": 50,
+    "timeDay": 47,
+    "timeWeek": 51,
     "timeMonth": 53,
     "timeYear": 55,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://it.waveful.app",
     "icon": "https://icons.duckduckgo.com/ip3/it.waveful.app.ico",
     "slug": "website-translation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 987,
-    "timeDay": 755,
-    "timeWeek": 905,
+    "timeDay": 894,
+    "timeWeek": 897,
     "timeMonth": 908,
     "timeYear": 987,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   },
   {
     "name": "Content Delivery Network (cdn.waveful.app)",
@@ -65,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 97,
-    "timeWeek": 98,
-    "timeMonth": 112,
+    "timeDay": 104,
+    "timeWeek": 100,
+    "timeMonth": 113,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -83,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 108,
-    "timeWeek": 115,
+    "timeDay": 96,
+    "timeWeek": 111,
     "timeMonth": 122,
-    "timeYear": 178,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -101,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 209,
-    "timeWeek": 202,
+    "timeDay": 215,
+    "timeWeek": 200,
     "timeMonth": 217,
     "timeYear": 378,
     "dailyMinutesDown": {}
@@ -119,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2672,
-    "timeDay": 392,
-    "timeWeek": 691,
-    "timeMonth": 691,
-    "timeYear": 2718,
+    "timeDay": 390,
+    "timeWeek": 693,
+    "timeMonth": 698,
+    "timeYear": 2720,
     "dailyMinutesDown": {}
   },
   {
@@ -137,10 +139,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 124,
-    "timeWeek": 103,
-    "timeMonth": 85,
-    "timeYear": 155,
+    "timeDay": 159,
+    "timeWeek": 89,
+    "timeMonth": 86,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -155,9 +157,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 43,
-    "timeWeek": 69,
-    "timeMonth": 79,
+    "timeDay": 58,
+    "timeWeek": 71,
+    "timeMonth": 80,
     "timeYear": 145,
     "dailyMinutesDown": {}
   }
