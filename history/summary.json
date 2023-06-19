@@ -60,18 +60,16 @@
     "slug": "content-delivery-network-cdn-waveful-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 94,
     "timeWeek": 96,
     "timeMonth": 108,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2023-06-19": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Functions Service",
