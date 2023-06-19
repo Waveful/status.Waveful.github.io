@@ -9,9 +9,11 @@ sites:
   - name: "Website Translation Service"
     url: https://it.waveful.app
   - name: "Content Delivery Network (cdn.waveful.app)"
-    url: $CDN_STATUS_URL
+    url: $CDN_STATUS_URL  # First post of Waveful.
     headers:
       - $CDN_STATUS_HEADER_FIREBASE_APP_CHECK
+      - $CDN_STATUS_HEADER_X_F_TIMESTAMP
+      - $CDN_STATUS_HEADER_X_F_MAC
   - name: "Functions Service"
     url: $INTERNAL_STATUS_URL
     method: POST
