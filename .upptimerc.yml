@@ -11,7 +11,7 @@ sites:
   - name: "Content Delivery Network (cdn.waveful.app)"
     url: $CDN_STATUS_URL
     headers:
-      - "X-Firebase-AppCheck: IYFfbgqdDZKP1wbHziBn5u5pfYNwH7KS"
+      - $CDN_STATUS_HEADER_FIREBASE_APP_CHECK
   - name: "Functions Service"
     url: $INTERNAL_STATUS_URL
     method: POST
