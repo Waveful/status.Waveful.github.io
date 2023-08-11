@@ -6,17 +6,17 @@
     "slug": "website-waveful-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 322,
-    "timeWeek": 330,
-    "timeMonth": 357,
-    "timeYear": 343,
+    "time": 346,
+    "timeDay": 639,
+    "timeWeek": 388,
+    "timeMonth": 370,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-08-11": 0
+      "2023-08-11": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://en.waveful.app",
     "icon": "https://icons.duckduckgo.com/ip3/en.waveful.app.ico",
     "slug": "website-en-waveful-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 57,
-    "timeDay": 493,
-    "timeWeek": 129,
+    "timeDay": 443,
+    "timeWeek": 128,
     "timeMonth": 88,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2023-08-11": 0
+      "2023-08-11": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://it.waveful.app",
     "icon": "https://icons.duckduckgo.com/ip3/it.waveful.app.ico",
     "slug": "website-translation-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 986,
-    "timeDay": 1412,
-    "timeWeek": 899,
+    "timeDay": 1353,
+    "timeWeek": 900,
     "timeMonth": 940,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2023-08-11": 0
+      "2023-08-11": 6
     }
   },
   {
