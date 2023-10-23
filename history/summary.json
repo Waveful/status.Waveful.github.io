@@ -104,11 +104,11 @@
     "url": "$INTERNAL_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "functions-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 363,
     "timeDay": 414,
@@ -116,7 +116,7 @@
     "timeMonth": 664,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-10-23": 6
+      "2023-10-23": 7
     }
   },
   {
@@ -124,11 +124,11 @@
     "url": "$INTERNAL_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 323,
     "timeDay": 559,
@@ -136,7 +136,7 @@
     "timeMonth": 662,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2023-10-23": 6
+      "2023-10-23": 7
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "$INTERNAL_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "no-sql-database-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1703,
+    "time": 1704,
     "timeDay": 2178,
     "timeWeek": 3334,
     "timeMonth": 3139,
     "timeYear": 1644,
     "dailyMinutesDown": {
-      "2023-10-23": 6
+      "2023-10-23": 7
     }
   },
   {
