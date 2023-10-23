@@ -104,19 +104,19 @@
     "url": "$INTERNAL_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "functions-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 468,
-    "timeWeek": 658,
-    "timeMonth": 667,
+    "timeDay": 414,
+    "timeWeek": 645,
+    "timeMonth": 664,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-10-23": 1
+      "2023-10-23": 6
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "$INTERNAL_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 617,
-    "timeWeek": 699,
-    "timeMonth": 665,
+    "timeDay": 559,
+    "timeWeek": 688,
+    "timeMonth": 662,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2023-10-23": 1
+      "2023-10-23": 6
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "$INTERNAL_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "no-sql-database-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1703,
-    "timeDay": 2450,
-    "timeWeek": 3400,
-    "timeMonth": 3153,
+    "timeDay": 2178,
+    "timeWeek": 3334,
+    "timeMonth": 3139,
     "timeYear": 1644,
     "dailyMinutesDown": {
-      "2023-10-23": 1
+      "2023-10-23": 6
     }
   },
   {
