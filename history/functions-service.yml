@@ -1,7 +1,7 @@
 url: $INTERNAL_STATUS_URL
 status: up
 code: 200
-responseTime: 69
-lastUpdated: 2023-12-08T04:31:39.218Z
+responseTime: 44
+lastUpdated: 2023-12-08T08:31:26.158Z
 startTime: 2022-02-26T15:12:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
