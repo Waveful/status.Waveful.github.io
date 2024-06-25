@@ -1,7 +1,7 @@
 url: $CDN_STATUS_URL
 status: up
 code: 200
-responseTime: 108
-lastUpdated: 2024-06-25T12:37:59.571Z
+responseTime: 150
+lastUpdated: 2024-06-25T16:31:58.822Z
 startTime: 2022-02-25T22:59:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
