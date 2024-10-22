@@ -10,11 +10,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 335,
-    "timeDay": 596,
-    "timeWeek": 606,
-    "timeMonth": 455,
-    "timeYear": 335,
+    "time": 336,
+    "timeDay": 645,
+    "timeWeek": 612,
+    "timeMonth": 466,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2024-10-19": 6,
       "2024-06-04": 7,
@@ -31,8 +31,7 @@
       "2023-11-01": 6,
       "2023-10-29": 27,
       "2023-10-27": 18,
-      "2023-10-26": 6,
-      "2023-10-23": 10
+      "2023-10-26": 6
     }
   },
   {
@@ -47,10 +46,10 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 53,
-    "timeDay": 208,
-    "timeWeek": 209,
-    "timeMonth": 89,
-    "timeYear": 52,
+    "timeDay": 256,
+    "timeWeek": 211,
+    "timeMonth": 97,
+    "timeYear": 53,
     "dailyMinutesDown": {
       "2024-10-19": 6,
       "2024-05-12": 6,
@@ -65,8 +64,7 @@
       "2023-11-01": 6,
       "2023-10-29": 27,
       "2023-10-27": 18,
-      "2023-10-26": 6,
-      "2023-10-23": 10
+      "2023-10-26": 6
     }
   },
   {
@@ -80,11 +78,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 902,
-    "timeDay": 1058,
-    "timeWeek": 1044,
-    "timeMonth": 1104,
-    "timeYear": 890,
+    "time": 903,
+    "timeDay": 1056,
+    "timeWeek": 1033,
+    "timeMonth": 1111,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2024-10-19": 6,
       "2024-06-26": 5,
@@ -101,8 +99,7 @@
       "2023-11-01": 6,
       "2023-10-29": 27,
       "2023-10-27": 18,
-      "2023-10-26": 6,
-      "2023-10-23": 10
+      "2023-10-26": 6
     }
   },
   {
@@ -117,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 124,
-    "timeWeek": 200,
-    "timeMonth": 169,
+    "timeDay": 162,
+    "timeWeek": 205,
+    "timeMonth": 170,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2024-03-04": 79
@@ -137,13 +134,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 319,
-    "timeWeek": 473,
-    "timeMonth": 436,
+    "timeDay": 923,
+    "timeWeek": 538,
+    "timeMonth": 463,
     "timeYear": 526,
-    "dailyMinutesDown": {
-      "2023-10-23": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authentication Service",
@@ -157,13 +152,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 488,
-    "timeDay": 564,
-    "timeWeek": 433,
-    "timeMonth": 443,
-    "timeYear": 476,
-    "dailyMinutesDown": {
-      "2023-10-23": 12
-    }
+    "timeDay": 507,
+    "timeWeek": 439,
+    "timeMonth": 455,
+    "timeYear": 475,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NoSQL Database #1",
@@ -176,14 +169,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2196,
-    "timeDay": 3112,
-    "timeWeek": 1740,
-    "timeMonth": 1943,
-    "timeYear": 2138,
-    "dailyMinutesDown": {
-      "2023-10-23": 12
-    }
+    "time": 2188,
+    "timeDay": 1990,
+    "timeWeek": 1826,
+    "timeMonth": 2001,
+    "timeYear": 2136,
+    "dailyMinutesDown": {}
   },
   {
     "name": "In-Memory Database #1",
@@ -197,9 +188,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 195,
-    "timeWeek": 111,
-    "timeMonth": 103,
+    "timeDay": 82,
+    "timeWeek": 104,
+    "timeMonth": 105,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -215,9 +206,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 52,
-    "timeWeek": 88,
-    "timeMonth": 71,
+    "timeDay": 129,
+    "timeWeek": 89,
+    "timeMonth": 74,
     "timeYear": 86,
     "dailyMinutesDown": {}
   }
