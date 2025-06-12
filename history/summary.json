@@ -105,19 +105,19 @@
     "url": "$INTERNAL_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authentication-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 4384,
-    "timeWeek": 809,
-    "timeMonth": 304,
+    "timeDay": 3845,
+    "timeWeek": 792,
+    "timeMonth": 303,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2025-06-12": 1
+      "2025-06-12": 21
     }
   },
   {
