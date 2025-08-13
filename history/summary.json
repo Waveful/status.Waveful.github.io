@@ -67,19 +67,19 @@
     "url": "$CDN_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "content-delivery-network-cdn-waveful-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 147,
-    "timeDay": 128,
-    "timeWeek": 153,
+    "timeDay": 136,
+    "timeWeek": 154,
     "timeMonth": 165,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-08-13": 22
+      "2025-08-13": 31
     }
   },
   {
