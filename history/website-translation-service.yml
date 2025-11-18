@@ -1,7 +1,7 @@
 url: https://it.waveful.app
-status: up
-code: 200
-responseTime: 57
-lastUpdated: 2025-11-18T12:15:16.200Z
+status: down
+code: 500
+responseTime: 181
+lastUpdated: 2025-11-18T12:39:42.510Z
 startTime: 2022-05-01T21:01:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
