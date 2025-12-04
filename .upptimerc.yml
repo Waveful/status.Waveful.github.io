@@ -2,12 +2,12 @@ owner: Waveful
 repo: status.Waveful.github.io
 
 sites:
-  - name: "Website (waveful.app)"
+  - name: "Website #1 (waveful.com)"
+    url: https://waveful.com
+  - name: "Website #2 (waveful.app)"
     url: https://waveful.app
-  - name: "Website (en.waveful.app)"
-    url: https://en.waveful.app
-  - name: "Website Translation Service"
-    url: https://it.waveful.app
+  - name: "Website #3 (waveful.me)"
+    url: https://waveful.me
   - name: "Content Delivery Network (cdn.waveful.app)"
     url: $CDN_STATUS_URL  # First post of Waveful.
     headers:
@@ -55,8 +55,8 @@ status-website:
   introMessage: " "
   css: ":root { --body-background-color: #f5f9fa; --body-text-color: #001926; --card-background-color: #ffffff; --nav-background-color: #ffffff; --nav-border-bottom-color: #68c7f3; --nav-current-border-bottom-color: #1896cc; --card-border-color: #d8e3e8; --down-border-left-color: #eb3b5a; --down-background-color: #ffd0d2; --degraded-border-left-color: #f7b731; --up-border-left-color: #20bf6b; --tag-color: #ffffff; --tag-up-background-color: #20bf6b; --tag-down-background-color: #eb3b5a; --tag-degraded-background-color: #f7b731; --change-background-color: #4489ff; --error-button-border-color: #1a46ad; --error-button-background-color: #3867d6; --error-button-color: #ffffff; --submit-button-border-color: #1a46ad; --submit-button-background-color: #3867d6; --submit-button-color: #ffffff; --graph-opacity: 0.80; --graph-filter: hue-rotate(45deg) saturate(200%) brightness(96%); }"
   navbar:
-    - title: 🌊
-      href: https://waveful.app
+    - title: 🐬
+      href: https://waveful.com
     - title: Status
       href: /
   
