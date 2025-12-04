@@ -8,6 +8,10 @@ sites:
     url: https://waveful.app
   - name: "Website #3 (waveful.me)"
     url: https://waveful.me
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: "Content Delivery Network (cdn.waveful.app)"
     url: $CDN_STATUS_URL  # First post of Waveful.
     headers:
