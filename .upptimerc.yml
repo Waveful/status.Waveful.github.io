@@ -49,7 +49,7 @@ sites:
 status-website:
   cname: status.waveful.com
   favicon: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/favicon.ico
-  logoUrl: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/icon_512.png
+  logoUrl: https://github.com/Waveful/status.Waveful.github.io/raw/master/assets/icon.png
   name: Waveful
   introTitle: "**Waveful** Status Dashboard"
   introMessage: " "
