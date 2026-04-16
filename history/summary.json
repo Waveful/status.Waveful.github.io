@@ -4,19 +4,19 @@
     "url": "https://waveful.com",
     "icon": "https://icons.duckduckgo.com/ip3/waveful.com.ico",
     "slug": "website-1-waveful-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 189,
-    "timeWeek": 191,
-    "timeMonth": 178,
+    "timeDay": 219,
+    "timeWeek": 196,
+    "timeMonth": 179,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-04-16": 0
+      "2026-04-16": 20
     }
   },
   {
